@@ -1,0 +1,6 @@
+D:\Охлоповский 215 группа\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+D:\Охлоповский 215 группа\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+D:\Охлоповский 215 группа\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+D:\Охлоповский 215 группа\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.CoreCompileInputs.cache
+D:\Охлоповский 215 группа\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+D:\Охлоповский 215 группа\ConsoleApp7\obj\Debug\ConsoleApp7.pdb
